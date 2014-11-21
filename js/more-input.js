@@ -1,9 +1,10 @@
-// Auto-create new rows
+// Auto-create new intput-groups
 $(".js-lists").on("focus", ".disabled", function () {
-	newRow = $(this).clone();
-	$(this).removeClass("disabled");
-	$(this).one("keypress", function () {
-		$(this).after(newRow);
+	var disabledRow = $(".input-group.disabled");
+	var newInputGroup = disabledRow.clone()[0];
+	disabledRow.removeClass("disabled");
+	disabledRow.one("keypress", function () {
+		disabledRow.after(newInputGroup);
 	});
 });
 
