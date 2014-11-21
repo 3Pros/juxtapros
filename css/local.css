@@ -1,3 +1,3 @@
 .sortable .input-group-addon {
-    cursor:move;
+    cursor:ns-resize;
 }
