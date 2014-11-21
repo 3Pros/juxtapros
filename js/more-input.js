@@ -6,7 +6,7 @@ $(".js-lists").on("focus", ".disabled", function () {
 	$(".js-lists").one("keypress", ".js-create-on-keypress", function () {
 		$(".js-create-on-keypress")
 			.removeClass("js-create-on-keypress")
-			.after(newDisabledInput);
+			.after(newInputGroup);
 	});
 });
 
