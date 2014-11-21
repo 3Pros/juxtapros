@@ -1,2 +1,2 @@
-    $( ".sortable" ).sortable();
+    $( ".sortable" ).sortable({ "axis" : "y" });
     $( ".sortable" ).disableSelection();

@@ -1,3 +1,4 @@
+// Auto-create new rows
 $(".js-lists").on("focus", ".disabled", function () {
 	newRow = $(this).clone();
 	$(this).removeClass("disabled");
@@ -5,3 +6,6 @@ $(".js-lists").on("focus", ".disabled", function () {
 		$(this).after(newRow);
 	});
 });
+
+// Count the non-blank inputs in each column
+// $(".js")
