@@ -33,32 +33,28 @@
 
 		<div class="row js-lists">
 			<div class="col-sm-3 sortable js-list">
-				<div class="input-group"><input type="text" class="form-control" placeholder="Pros"/></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control" placeholder="Pros"/></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
+				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
 			</div>
 			<div class="col-sm-3 sortable js-list">
-				<div class="input-group"><input type="text" class="form-control" placeholder="Cons"/></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control" placeholder="Cons"/></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
+				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
 			</div>
 			<div class="col-sm-3 sortable js-list">
-				<div class="input-group"><input type="text" class="form-control" placeholder="Pros"/></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control" placeholder="Pros"/></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
+				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
 			</div>
 			<div class="col-sm-3 sortable js-list">
-				<div class="input-group"><input type="text" class="form-control" placeholder="Cons"/></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
-				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control" placeholder="Cons"/></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
+				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
 			</div>
 
 
