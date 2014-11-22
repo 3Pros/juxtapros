@@ -16,4 +16,4 @@ $(".toggle3").on("click", function() {
 $("#js-set").on("click", function() {
 	$("#js-setme").toggleClass("open");
 
-}); 
+});
