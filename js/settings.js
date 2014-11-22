@@ -16,8 +16,9 @@ $(".toggle1").on("click", function() {
 	// $("input").toggleClass("js-darkblue");
 	// $("html").toggleClass("js-blue");
 });
+
 $(".toggle2").on("click", function() {
-	$("#g2").toggleClass("glyphicon-ok");
+	// $("#g2").toggleClass("glyphicon-ok");
 
 
 });
