@@ -7,8 +7,9 @@ $(".toggle1").on("click", function() {
 		});
 		$folded.oriDomi("foldUp");
 	} else {
-		$folded.oriDomi("unfold");
-		$folded.oriDomi("destroy");
+		$folded.oriDomi("unfold", function () {
+			$folded.oriDomi("destroy");
+		});
 	}
 	// $("input").toggleClass("js-darkblue");
 	// $("html").toggleClass("js-blue");
