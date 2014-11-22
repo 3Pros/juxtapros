@@ -39,7 +39,6 @@
 </head>
 
 <body>
-	<!--#echo var="DATE_LOCAL" -->
 	<nav class="navbar navbar-default" role="navigation">
 		<div class="container-fluid">
 			<!-- Brand and toggle get grouped for better mobile display -->
@@ -70,12 +69,12 @@
 
 				</ul>
 				<ul class="nav navbar-nav navbar-right">
-					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><span class="glyphicon glyphicon-cog"></span></a>
+					<li id="js-setme" class="dropdown ">
+						<a id="js-set"  role="button" aria-expanded="false"><span class="glyphicon glyphicon-cog"></span></a>
 						<ul class="dropdown-menu" role="menu">
-							<li><a class="toggle" href="#">Settings1</a></li>
-							<li><a class="toggle" href="#">Settings2</a></li>
-							<li><a class="toggle" href="#">Settings3</a></li>
+							<li><a class="btn btn-link toggle1"  data-toggle="button" >Settings1 <span id="g1" class="glyphicon"></span></a></li>
+							<li><a class="btn btn-link toggle2"  data-toggle="button" >Settings2 <span id="g2" class="glyphicon"></span></a></li>
+							<li><a class="btn btn-link toggle3"  data-toggle="button" >Settings3 <span id="g3" class="glyphicon"></span></a></li>
 							<li><div class="btn-group btn-group-justified" role="group">
 						</ul>
 					</li>
