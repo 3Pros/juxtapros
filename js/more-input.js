@@ -1,18 +1,28 @@
 // Auto-create new intput-groups
 $(".js-lists").on("focus", ".disabled", function () {
-	var disabledRow = $(".input-group.disabled");
-	var newInputGroup = disabledRow.clone()[0];
-	disabledRow.removeClass("disabled").addClass("js-create-on-keypress");
+	var disabledGroups = $(".input-group.disabled");
+	var newInputGroupL = disabledGroups.clone()[0];
+	var newInputGroupR = disabledGroups.clone()[1];
+	disabledGroups.removeClass("disabled").addClass("js-create-on-keypress");
 	$(".js-lists").one("keypress", ".js-create-on-keypress", function () {
 		$(".js-create-on-keypress")
 			.removeClass("js-create-on-keypress");
-		$(".js-list > div:last-child")
-			.after(newInputGroup);
+		$(".js-list-l > div:last-child")
+			.after(newInputGroupL);
+		$(".js-list-r > div:last-child")
+			.after(newInputGroupR);
 		recomputeTabIndices();
 	});
 });
 
 $(".js-lists").on("keyup", recountTotals);
+$(".js-lists").on("keyup", "input", function (event) {
+	var upArrow = 38;
+	var downArrow = 40;
+	if (event.which == upArrow || event.which == downArrow) {
+		;
+	}
+});
 $(".js-lists").on("blur", recountTotals);
 
 // Count the non-blank inputs in each column
