@@ -1,9 +1,9 @@
 $(document).ready(function() {
-    //jquery
-    $(location).attr('href');
 
-    //pure javascript
-    //var pathname = window.location.pathnamesplit('/').pop();
+    var theplace = location.pathname;
+    var things = theplace.split("/");
+    var filename = things[length-1];
 
-    alert(location.pathname);
+
+    alert(filename);
 });
