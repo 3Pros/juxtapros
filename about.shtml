@@ -36,6 +36,7 @@
                     <p class="thanks-description">jQuery is cool, I guess.</p>
                     <p><a target="_blank" href="http://glyphicons.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Glyphicons</a></p>
                     <p class="thanks-description">Thank you to Glyphicons for the use of their "halflings" through Bootstrap, as well as those available in Glyphicons FREE, released under the <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a> license.</p>
+                    <p><a target="_blank" href="http://oridomi.com/"><img src="/images/glyphicons/png/glyphicons_049_star.png">OriDomi</a><p>
                 </div>
             </div>
         </div>
