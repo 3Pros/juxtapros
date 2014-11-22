@@ -1,10 +1,15 @@
+var folded = $(".container").oriDomi({
+	hPanels: 6,
+	speed: 2000,
+});
+
 $(".toggle1").on("click", function() {
 	$("#g1").toggleClass("glyphicon-ok");
-	$.folded = $(".container").oriDomi({
-		hPanels: 6,
-		speed: 2000,
-	});
-	$.folded.foldUp();
+	if ($("#g1").hasClass("glyphicon-ok")) {
+		folded.foldUp();
+	} else {
+		folded.unfold();
+	}
 	// $("input").toggleClass("js-darkblue");
 	// $("html").toggleClass("js-blue");
 });
