@@ -18,7 +18,7 @@
 					<span class="input-group-addon">
 						<span class="js-listcount">0</span>
 					</span>
-					<input type="text" class="form-control" placeholder="Thing 1">
+					<input type="text" class="form-control text-center" placeholder="Thing 1">
 					<span class="input-group-addon">
 						<span class="js-listcount">0</span>
 					</span>
@@ -29,7 +29,7 @@
 					<span class="input-group-addon">
 						<span class="js-listcount">0</span>
 					</span>
-					<input type="text" class="form-control" placeholder="Thing 2">
+					<input type="text" class="form-control text-center" placeholder="Thing 2">
 					<span class="input-group-addon">
 						<span class="js-listcount">0</span>
 					</span>
