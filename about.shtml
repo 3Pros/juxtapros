@@ -17,7 +17,7 @@
             <div class="col-sm-5 well well-sm">
                 <h4>Contact Us</h4>
             </div>
-            <div class="col-sm-5 .col-md-offset-2 well well-sm">
+            <div class="col-sm-5 .col-sm-offset-2 well well-sm">
                 <h4>Special Thanks</h4>
             </div>
         </div>
