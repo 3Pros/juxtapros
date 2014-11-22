@@ -19,8 +19,8 @@ $(".js-lists").on("keyup", recountTotals);
 $(".js-lists").on("keyup", "input", function (event) {
 	var upArrow = 38;
 	var downArrow = 40;
-	if (event.which == upArrow || event.which == downArrow) {
-		;
+	if (event.which == upArrow) {
+		
 	}
 });
 $(".js-lists").on("blur", recountTotals);
@@ -30,7 +30,7 @@ function recountTotals () {
 	$(".js-listcount").each(function (index, element) {
 		var count = 0;
 		$("input", $(".js-list").get(index)).each(function (i, el) {
-			if (el.value) {
+			if (el.value.trim()) {
 				++count;
 			}
 		})
