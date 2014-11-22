@@ -17,7 +17,7 @@
 .input-group-addon{
      min-width:42px;
 }
-a.contact{
+.contact a:link{
     color:black;
 }
 img.contact{
