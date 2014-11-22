@@ -28,13 +28,10 @@
             <div class="col-sm-6">
                 <div class="well">
                     <h3>Special Thanks</h3>
-                    <p><a href"http://southernutahcodecamp.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Southern Utah Code Camp></a></p>
-                    <ul>
-                        <li>Southern Utah Code Camp</li>
-                        <li>Bootstrap</li>
-                        <li>jQuery</li>
-                        <li><a href="http://glyphicons.com/">Glyphicons</a></li>
-                    </ul>
+                    <p><a href"http://southernutahcodecamp.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Southern Utah Code Camp</a></p>
+                    <p><a href"http://getbootstrap.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Bootstrap</a></p>
+                    <p><a href"http://jquery.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>jQuery</a></p>
+                    <p><a href"http://glyphicons.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Glyphicons</a></p>
                 </div>
             </div>
         </div>
