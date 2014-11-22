@@ -15,22 +15,22 @@
 		<div class="row">
 			<div class="col-sm-6">
 				<div class="input-group">
-					<span class="input-group-addon">
+					<span style="min-width:39px" class="input-group-addon">
 						<span class="js-listcount">0</span>
 					</span>
 					<input type="text" class="form-control" placeholder="Thing 1">
-					<span class="input-group-addon">
+					<span style="min-width:39px" class="input-group-addon">
 						<span class="js-listcount">0</span>
 					</span>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="input-group">
-					<span class="input-group-addon">
+					<span style="min-width:39px" class="input-group-addon">
 						<span class="js-listcount">0</span>
 					</span>
 					<input type="text" class="form-control" placeholder="Thing 2">
-					<span class="input-group-addon">
+					<span style="min-width:39px" class="input-group-addon">
 						<span class="js-listcount">0</span>
 					</span>
 				</div>
