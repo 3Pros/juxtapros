@@ -6,17 +6,12 @@
 
 <body>
     <!--#include virtual="/include/nav.include.shtml"-->
-
-	<div>
-		<h1 style="text-align:center">About</h1>
-	</div>
-	<br>
-	<br>
-	<br>
-	<div>
-	<h3 style="text-align:center">JuxtaPros is an web app for you! This is also really cheesy btw. This app<br>
-	allows you to compare and contrast the pros and cons of whatever you choose.</h3>
-	</div>
-<!--#include virtual="/include/scripts.include.shtml"-->
+    <div class="container">
+        <div class="well">
+            <h2>About JuxtaPros</h2>
+            <p>JuxtaPros is an web app for you! This is also really cheesy btw. This app allows you to compare and contrast the pros and cons of whatever you choose.</p>
+        </div>
+    </div>
+    <!--#include virtual="/include/scripts.include.shtml"-->
 </body>
 </html>
