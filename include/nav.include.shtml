@@ -12,7 +12,7 @@
 			<ul class="nav navbar-nav">
 				<li><a class="navbar-brand" href="/index.shtml">JuxtaPros</a></li>
 				<li><a href="/about.shtml">About<span class="sr-only">(current)</span></a></li>
-				<li class="dropdown">
+				<!-- <li class="dropdown">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Dropdown <span class="caret"></span></a>
 					<ul class="dropdown-menu" role="menu">
 						<li><a href="#">Cars v. Trucks</a></li>
@@ -23,7 +23,7 @@
 						<div class="btn-group" role="group" ><button class="btn btn-default"><a>Import</a></button></div>
 						<div class="btn-group" role="group" ><button class="btn btn-default"><a class="js-export-button">Export</a></button></div></div></li>
 					</ul>
-				</li>
+				</li> -->
 
 
 			</ul>
