@@ -12,7 +12,7 @@
                 <div class="well">
                     <h2>About JuxtaPros</h2>
                     <p>JuxtaPros is the web app you've been waiting for! This is a simple tool for comparing alternatives. Whether you're making a list of pros and cons or analyzing different brands of bacon, JuxtaPros will help you lay out your options.</p>
-                    <p>Built during Southern Utah Code Camp 2014.</p>
+                    <p>Built by Terry Black, Tyler Mumford, and Jacob Ward during Southern Utah Code Camp 2014.</p>
                 </div>
             </div>
         </div>
@@ -20,20 +20,20 @@
             <div class="col-sm-6">
                 <div class="well">
                     <h3>Contact Us</h3>
-                    <p><a href="mailto:info@juxtapros.com"><img src="/images/glyphicons_social/png/glyphicons_social_39_e-mail.png"/>info@juxtapros.com</a></p>
-                    <p><a href="http://twitter.com/juxtapros"><img src="/images/glyphicons_social/png/glyphicons_social_31_twitter.png"/>@JuxtaPros</a></p>
-                    <p><a href="https://github.com/3Pros/juxtapros"><img src="/images/glyphicons_social/png/glyphicons_social_21_github.png"/>3Pros/juxtapros</a></p>
+                    <p><a target="_blank" href="mailto:info@juxtapros.com"><img src="/images/glyphicons_social/png/glyphicons_social_39_e-mail.png"/>info@juxtapros.com</a></p>
+                    <p><a target="_blank" href="http://twitter.com/juxtapros"><img src="/images/glyphicons_social/png/glyphicons_social_31_twitter.png"/>@JuxtaPros</a></p>
+                    <p><a target="_blank" href="https://github.com/3Pros/juxtapros"><img src="/images/glyphicons_social/png/glyphicons_social_21_github.png"/>3Pros/juxtapros</a></p>
                 </div>
             </div>
             <div class="col-sm-6">
                 <div class="well">
                     <h3>Special Thanks</h3>
-                    <p><a href"http://southernutahcodecamp.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Southern Utah Code Camp</a></p>
+                    <p><a target="_blank" href="http://southernutahcodecamp.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Southern Utah Code Camp</a></p>
                     <p class="thanks-description">Thank you to Southern Utah Code Camp and its sponsors for providing a fun event for us to test and apply our coding skills. (And for all of the food!)</p>
-                    <p><a href"http://getbootstrap.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Bootstrap</a></p>
-                    <p><a href"http://jquery.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>jQuery</a></p>
-                    <p><a href"http://glyphicons.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Glyphicons</a></p>
-                    <p><a href="http://oridomi.com/"><img src="/images/glyphicons/png/glyphicons_049_star.png">OriDomi</a><p>
+                    <p><a target="_blank" href="http://getbootstrap.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Bootstrap</a></p>
+                    <p><a target="_blank" href="http://jquery.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>jQuery</a></p>
+                    <p><a target="_blank" href="http://glyphicons.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Glyphicons</a></p>
+                    <p><a target="_blank" href="http://oridomi.com/"><img src="/images/glyphicons/png/glyphicons_049_star.png">OriDomi</a><p>
                 </div>
             </div>
         </div>
