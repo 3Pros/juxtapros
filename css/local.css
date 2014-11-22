@@ -17,3 +17,9 @@
 .input-group-addon{
      min-width:42px;
 }
+a.contact{
+    color:black;
+}
+img.contact{
+    padding-right:10px;
+}
