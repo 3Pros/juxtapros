@@ -1,7 +1,9 @@
+var $folded;
+
 $(".toggle1").on("click", function() {
 	$("#g1").toggleClass("glyphicon-ok");
 	if ($("#g1").hasClass("glyphicon-ok")) {
-		var $folded = $(".container").oriDomi({
+		$folded = $(".container").oriDomi({
 			hPanels: 6,
 			speed: 2000,
 		});
