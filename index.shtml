@@ -16,22 +16,22 @@
 			<div class="col-sm-6">
 				<div class="input-group">
 					<span class="input-group-addon">
-						Pros: <span class="js-listcount">0</span>
+						<span class="js-listcount">0</span>
 					</span>
 					<input type="text" class="form-control" placeholder="Thing 1">
 					<span class="input-group-addon">
-						Cons: <span class="js-listcount">0</span>
+						<span class="js-listcount">0</span>
 					</span>
 				</div>
 			</div>
 			<div class="col-sm-6">
 				<div class="input-group">
 					<span class="input-group-addon">
-						Pros: <span class="js-listcount">0</span>
+						<span class="js-listcount">0</span>
 					</span>
 					<input type="text" class="form-control" placeholder="Thing 2">
 					<span class="input-group-addon">
-						Cons: <span class="js-listcount">0</span>
+						<span class="js-listcount">0</span>
 					</span>
 				</div>
 			</div>
@@ -45,8 +45,8 @@
 				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
 			</div>
 			<div class="col-sm-3 sortable js-list">
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control" placeholder="Cons"/></div>
-				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
+				<div class="input-group"></span><input type="text" class="form-control" placeholder="Cons"/><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></div>
+				<div class="input-group"><span class="input-group-addon"></span><input type="text" class="form-control"/><span class="glyphicon glyphicon-th"></span></div>
 				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
 				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"/></div>
 			</div>
