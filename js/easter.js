@@ -1,7 +1,7 @@
 //’secret’ specifies the numerical keystrokes that make up the word “mario”
 //var secret = "38384040373937396665"; 
-var secret = "38";
-var secret2 = "40";
+var secret = "3838383838";
+var secret2 = "4040404040";
 var input = "";
 var timer;
 //The following function sets a timer that checks for user input. You can change the variation in how long the user has to input by changing the number in ‘setTimeout.’ In this case, it’s set for 500 milliseconds or ½ second.
