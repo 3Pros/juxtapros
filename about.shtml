@@ -8,17 +8,25 @@
     <!--#include virtual="/include/nav.include.shtml"-->
     <div class="container">
         <div class="row">
-            <div class="well">
-                <h2>About JuxtaPros</h2>
-                <p>JuxtaPros is an web app for you! This is also really cheesy btw. This app allows you to compare and contrast the pros and cons of whatever you choose.</p>
+            <div class="col-sm-12">
+                <div class="well">
+                    <h2>About JuxtaPros</h2>
+                    <p>JuxtaPros is an web app for you! This is also really cheesy btw. This app allows you to compare and contrast the pros and cons of whatever you choose.</p>
+                </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-5 well well-sm">
-                <h4>Contact Us</h4>
+            <div class="col-sm-6">
+                <div class="well">
+                    <h4>Contact Us</h4>
+                    <p>Stuff</p>
+                </div>
             </div>
-            <div class="col-sm-6 col-sm-offset-1 well well-sm">
-                <h4>Special Thanks</h4>
+            <div class="col-sm-6">
+                <div class="well">
+                    <h4>Special Thanks</h4>
+                    <p>Code Camp</p>
+                </div>
             </div>
         </div>
     </div>
