@@ -1,3 +1,10 @@
 .sortable div:not(.disabled) .input-group-addon {
     cursor:ns-resize;
 }
+
+.glyphicon-th {
+	opacity: .3;
+}
+.disabled {
+	opacity: .5;
+}
