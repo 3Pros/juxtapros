@@ -8,3 +8,6 @@
 .disabled {
 	opacity: .5;
 }
+.js-blue{
+	background-color: blue;
+}
