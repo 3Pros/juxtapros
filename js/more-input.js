@@ -15,17 +15,17 @@ $(".js-lists").on("focus", ".disabled", function () {
 	});
 });
 
+$(".js-lists").on("blur", recountTotals);
 $(".js-lists").on("keyup", recountTotals);
 $(".js-lists").on("keyup", "input", function (event) {
 	var upArrow = 38;
 	var downArrow = 40;
 	if (event.which == upArrow) {
-		console.log("Will move up. Will be implemented when I feel like it.")
-	} else {
-		console.log("Will move down. Will be implemented when I feel like it.")
+		$(event.target).parent().prev().child("input").focus();
+	} else if (event.which == downArrow) {
+		$(event.target).parent().next().child("input").focus();
 	}
 });
-$(".js-lists").on("blur", recountTotals);
 
 // Count the non-blank inputs in each column
 function recountTotals () {
