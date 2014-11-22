@@ -7,9 +7,19 @@
 <body>
     <!--#include virtual="/include/nav.include.shtml"-->
     <div class="container">
-        <div class="well">
-            <h2>About JuxtaPros</h2>
-            <p>JuxtaPros is an web app for you! This is also really cheesy btw. This app allows you to compare and contrast the pros and cons of whatever you choose.</p>
+        <div class="row">
+            <div class="well">
+                <h2>About JuxtaPros</h2>
+                <p>JuxtaPros is an web app for you! This is also really cheesy btw. This app allows you to compare and contrast the pros and cons of whatever you choose.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6">
+                <h4>Contact Us</h4>
+            </div>
+            <div class="col-sm-6">
+                <h4>Special Thanks</h4>
+            </div>
         </div>
     </div>
     <!--#include virtual="/include/scripts.include.shtml"-->
