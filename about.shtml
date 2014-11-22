@@ -35,6 +35,8 @@
                     <p class="thanks-description">JuxtaPros is built with Bootstrap. For the uneducated, it's basically the only way for programmers to make it look like they have design skills.</p>
                     <p><a target="_blank" href="http://jquery.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>jQuery</a></p>
                     <p class="thanks-description">jQuery? Yeah, that's pretty much the driving force behind JuxtaPros. Seriously, it's awesome.</p>
+                    <p><a target="_blank" href="http://github.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>GitHub</a></p>
+                    <p class="thanks-description">Without GitHub, our team wouldn't have been able to keep our HEADs on straight. Ba-dum-tish.</p>
                     <p><a target="_blank" href="http://glyphicons.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Glyphicons</a></p>
                     <p class="thanks-description">Thank you to Glyphicons for the use of their "halflings" through Bootstrap, as well as those available in Glyphicons FREE, released under the <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a> license.</p>
                     <p><a target="_blank" href="http://oridomi.com/"><img src="/images/glyphicons/png/glyphicons_049_star.png">OriDomi</a><p>
