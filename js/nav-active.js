@@ -4,6 +4,7 @@ $(document).ready(function() {
     var things = theplace.split("/");
     var filename = things[things.length-1];
 
+    $("a[href*='"+filename+"']").addClass("active");
 
-    alert(filename);
+    //alert(filename);
 });
