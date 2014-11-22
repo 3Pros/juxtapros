@@ -14,7 +14,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-6">
-				<div class="input-group"><input type="text" class="form-control" placeholder="List 1">
+				<div class="input-group"><input type="text" class="form-control" placeholder="Thing 1">
 					<span class="input-group-addon">
 						<span class="js-listcount">0</span> |
 						<span class="js-listcount">0</span>
@@ -22,11 +22,30 @@
 				</div>
 			</div>
 			<div class="col-sm-6">
-				<div class="input-group"><input type="text" class="form-control" placeholder="List 2">
+				<div class="input-group"><input type="text" class="form-control" placeholder="Thing 2">
 					<span class="input-group-addon">
 						<span class="js-listcount">0</span> |
 						<span class="js-listcount">0</span>
 					</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-3">
+				<div class="input-group"><input type="text" class="form-control" placeholder="Pros">
+				</div>
+			</div>
+			<div class="col-sm-3">
+				<div class="input-group"><input type="text" class="form-control" placeholder="Cons">
+				</div>
+				<div class="col-sm-3">
+					<div class="input-group"><input type="text" class="form-control" placeholder="Pros">
+					</div>
+				</div>
+				<div class="col-sm-3">
+					<div class="input-group"><input type="text" class="form-control" placeholder="Cons">
+					</div>
 				</div>
 			</div>
 		</div>
