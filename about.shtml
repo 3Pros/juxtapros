@@ -6,9 +6,11 @@
 
 <body>
     <!--#include virtual="/include/nav.include.shtml"-->
-    <div class="well">
-        JuxtaPros is an web app for you! This is also really cheesy btw. This app allows you to compare and contrast the pros and cons of whatever you choose.
+    <div class="container">
+        <div class="well">
+            JuxtaPros is an web app for you! This is also really cheesy btw. This app allows you to compare and contrast the pros and cons of whatever you choose.
+        </div>
     </div>
-<!--#include virtual="/include/scripts.include.shtml"-->
+    <!--#include virtual="/include/scripts.include.shtml"-->
 </body>
 </html>
