@@ -8,6 +8,7 @@
         <div class="jumbotron alert alert-danger">
             <h1>Error 404</h1>
             <p>Something went wrong.</p>
+            <button type="button" class="btn btn-success btn-lg"><span class="glyphicon glyphicon-home"></span> Go Home</button>
         </div>
     </div>
 </body>
