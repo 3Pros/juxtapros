@@ -1,1 +1,2 @@
-AddOutputFilter INCLUDES .html
+Options +Includes
+AddOutputFilter INCLUDES html;shtml
