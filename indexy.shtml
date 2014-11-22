@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+<!--#set var="pageTitle" value="Home"-->
+<!--#include virtual="/include/head.include.shtml"-->
+
+<body>
+	<!--#include virtual="/include/nav.include.shtml"-->
+
+	<div>
+		<h1 style="text-align:center">JuxtaPros</h1>
+	</div>
+	<br>
+	<br>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="input-group"><input type="text" class="form-control" placeholder="List 1">
+					<span class="input-group-addon">
+						<span class="js-listcount">0</span> |
+						<span class="js-listcount">0</span>
+					</span>
+				</div>
+			</div>
+			<div class="col-sm-6">
+				<div class="input-group"><input type="text" class="form-control" placeholder="List 2">
+					<span class="input-group-addon">
+						<span class="js-listcount">0</span> |
+						<span class="js-listcount">0</span>
+					</span>
+				</div>
+			</div>
+		</div>
+
+		<div class="row js-lists">
+			<div class="col-sm-3 sortable js-list">
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+			</div>
+			<div class="col-sm-3 sortable js-list">
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+			</div>
+			<div class="col-sm-3 sortable js-list">
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+			</div>
+			<div class="col-sm-3 sortable js-list">
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+				<div class="input-group disabled"><span class="input-group-addon"><span class="glyphicon glyphicon-th"></span></span><input type="text" class="form-control"></div>
+			</div>
+
+
+		</div>
+
+
+	</div>
+</div>
+
+<!--#include virtual="/include/scripts.include.shtml"-->
+</body>
+</html>

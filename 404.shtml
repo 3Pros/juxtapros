@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<!--#set var="pageTitle" value="Home"-->
+<!--#include virtual="/include/head.include.shtml"-->
+<body>
+    <!--#include virtual="/include/nav.include.shtml"-->
+    <div class="jumbotron container">
+        <h1>Error 404</h1>
+        <p>Something went wrong.</p>
+    </div>
+</body>
