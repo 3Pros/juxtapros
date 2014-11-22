@@ -8,6 +8,7 @@ $(".js-lists").on("focus", ".disabled", function () {
 			.removeClass("js-create-on-keypress");
 		$(".js-list > div:last-child")
 			.after(newInputGroup);
+		recomputeTabIndices();
 	});
 });
 
