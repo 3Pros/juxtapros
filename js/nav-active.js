@@ -3,7 +3,7 @@ $(document).ready(function() {
     $(location).attr('href');
 
     //pure javascript
-    var pathname = window.location.pathnamesplit('/').pop();
+    //var pathname = window.location.pathnamesplit('/').pop();
 
     alert(pathname);
 });
