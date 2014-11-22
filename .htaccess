@@ -1,2 +1,1 @@
-AddType text/html .shtml
-AddOutputFilter INCLUDES .shtml .html
+AddOutputFilter INCLUDES .html
