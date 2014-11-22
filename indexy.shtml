@@ -1,10 +1,9 @@
 <!doctype html>
 <html>
 <!--#set var="pageTitle" value="Home"-->
-<!--#include virtual="/include/head.include.html"-->
+<!--#include virtual="/include/head.include.shtml"-->
 
 <body>
-	<!--#echo var="DATE_LOCAL" -->
 	<nav class="navbar navbar-default" role="navigation">
 		<div class="container-fluid">
 			<!-- Brand and toggle get grouped for better mobile display -->
