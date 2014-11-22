@@ -14,11 +14,11 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-6 well">
-                    <h4>Contact Us</h4>
+            <div class="col-sm-5 well">
+                <h4>Contact Us</h4>
             </div>
-            <div class="col-sm-6 well">
-                    <h4>Special Thanks</h4>
+            <div class="col-sm-5 well">
+                <h4>Special Thanks</h4>
             </div>
         </div>
     </div>
