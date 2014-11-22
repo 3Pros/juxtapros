@@ -31,8 +31,11 @@
                     <p><a target="_blank" href="http://southernutahcodecamp.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Southern Utah Code Camp</a></p>
                     <p class="thanks-description">Thank you to Southern Utah Code Camp and its sponsors for providing a fun event for us to test and apply our coding skills. (And for all of the food!)</p>
                     <p><a target="_blank" href="http://getbootstrap.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Bootstrap</a></p>
+                    <p class="thanks-description">JuxtaPros is built with Bootstrap.</p>
                     <p><a target="_blank" href="http://jquery.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>jQuery</a></p>
+                    <p class="thanks-description">jQuery is cool, I guess.</p>
                     <p><a target="_blank" href="http://glyphicons.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Glyphicons</a></p>
+                    <p class="thanks-description">Thank you to Glyphicons for the use of their "halflings" through Bootstrap, as well as those available in Glyphicons FREE, released under the <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a> license.</p>
                 </div>
             </div>
         </div>
