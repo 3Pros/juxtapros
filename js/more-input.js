@@ -5,7 +5,8 @@ $(".js-lists").on("focus", ".disabled", function () {
 	disabledRow.removeClass("disabled").addClass("js-create-on-keypress");
 	$(".js-lists").one("keypress", ".js-create-on-keypress", function () {
 		$(".js-create-on-keypress")
-			.removeClass("js-create-on-keypress")
+			.removeClass("js-create-on-keypress");
+		$(".js-list > div:last-child")
 			.after(newInputGroup);
 	});
 });
