@@ -20,10 +20,11 @@ $(".js-lists").on("keyup", recountTotals);
 $(".js-lists").on("keyup", "input", function (event) {
 	var upArrow = 38;
 	var downArrow = 40;
-	if (event.which == upArrow) {
-		$(event.target).parent().prev().child("input").focus();
-	} else if (event.which == downArrow) {
-		$(event.target).parent().next().child("input").focus();
+	var parent = $(event.target).parent();
+	if (event.which == upArrow && parent.prev().length) {
+		parent.prev().children("input").focus();
+	} else if (event.which == downArrow && parent.next().length) {
+		parent.next().children("input").focus();
 	}
 });
 
