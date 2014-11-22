@@ -8,7 +8,7 @@
         <div class="jumbotron alert alert-danger">
             <h1>Error 404</h1>
             <p>Something went wrong.</p>
-            <a href="index.shtml" class="btn btn-success btn-lg"><span class="glyphicon glyphicon-home"></span> Go Home</a>
+            <p style="text-align:center"><a href="index.shtml" class="btn btn-success btn-lg"><span class="glyphicon glyphicon-home"></span> Go Home</a></p>
         </div>
     </div>
 </body>
