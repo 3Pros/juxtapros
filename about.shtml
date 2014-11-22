@@ -26,7 +26,12 @@
             <div class="col-sm-6">
                 <div class="well">
                     <h4>Special Thanks</h4>
-                    <p>Code Camp</p>
+                    <ul>
+                        <li>Southern Utah Code Camp</li>
+                        <li>Bootstrap</li>
+                        <li>jQuery</li>
+                        <li><a href="http://glyphicons.com/">Glyphicons</a></li>
+                    </ul>
                 </div>
             </div>
         </div>
