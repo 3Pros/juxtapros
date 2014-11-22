@@ -19,13 +19,13 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="well">
-                    <h4>Contact Us</h4>
-                    <p>Stuff</p>
+                    <h3>Contact Us</h3>
+                    <p><a href="mailto:info@juxtapros.com"><img src="/images/glyphicons_social/glyphicons_social_39_e-mail.png"/>info@juxtapros.com</a></p>
                 </div>
             </div>
             <div class="col-sm-6">
                 <div class="well">
-                    <h4>Special Thanks</h4>
+                    <h3>Special Thanks</h3>
                     <p>Code Camp</p>
                 </div>
             </div>
