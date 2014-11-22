@@ -3,3 +3,4 @@ AddType text/html .shtml
 AddOutputFilter INCLUDES html;shtml
 DirectoryIndex index.shtml
 ErrorDocument 404 /404.shtml
+RedirectMatch 301 (.*)\.html$ http://www.juxtapros.com$1.shtml
