@@ -33,7 +33,7 @@
 					<ul class="dropdown-menu" role="menu">
 						<li><a class="btn btn-link toggle1"  data-toggle="button" >Folding <span id="g1" class="glyphicon"></span></a></li>
 						<li><a class="btn btn-link toggle2"  data-toggle="modal" data-target=".js-dialog" >Saving <span id="g2" class="glyphicon"></span></a></li>
-						<li><a class="btn btn-link toggle3"  data-toggle="button" >Settings3 <span id="g3" class="glyphicon"></span></a></li>
+						<!-- <li><a class="btn btn-link toggle3"  data-toggle="button" >Settings3 <span id="g3" class="glyphicon"></span></a></li> -->
 						<li><div class="btn-group btn-group-justified" role="group">
 					</ul>
 				</li>
