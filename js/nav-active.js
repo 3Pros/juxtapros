@@ -5,5 +5,5 @@ $(document).ready(function() {
     //pure javascript
     //var pathname = window.location.pathnamesplit('/').pop();
 
-    alert(pathname);
+    alert(location.pathname);
 });
