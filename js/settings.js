@@ -1,6 +1,6 @@
 $(".toggle1").on("click", function() {
 	$("#g1").toggleClass("glyphicon-ok");
-	$("input").toggleClass("js-blue");
+	$("input").toggleClass("js-darkblue");
 	$("html").toggleClass("js-blue");
 });
 $(".toggle2").on("click", function() {
