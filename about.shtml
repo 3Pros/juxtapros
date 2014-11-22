@@ -12,6 +12,7 @@
                 <div class="well">
                     <h2>About JuxtaPros</h2>
                     <p>JuxtaPros is the web app you've been waiting for! This is a simple tool for comparing alternatives. Whether you're making a list of pros and cons or analyzing different brands of bacon, JuxtaPros will help you lay out your options.</p>
+                    <p>Most companies would put a whole bunch of marketing jargon here to try to sell their product to you. But JuxtaPros doesn't do that. Because it's free. If you're not sold yet, I don't know how to help you. Maybe a back rub? Chocolate muffin? Just go ahead and use it already.</p>
                     <p>Built by Terry Black, Tyler Mumford, and Jacob Ward during Southern Utah Code Camp 2014.</p>
                 </div>
             </div>
@@ -37,7 +38,7 @@
                     <p><a target="_blank" href="http://glyphicons.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Glyphicons</a></p>
                     <p class="thanks-description">Thank you to Glyphicons for the use of their "halflings" through Bootstrap, as well as those available in Glyphicons FREE, released under the <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a> license.</p>
                     <p><a target="_blank" href="http://oridomi.com/"><img src="/images/glyphicons/png/glyphicons_049_star.png">OriDomi</a><p>
-                    <p class="thanks-description">OriDomi helpfully provided the lovely Folding functionality that you'll find in the little settings menu to your upper-right.</p>
+                    <p class="thanks-description">The OriDomi plugin helpfully provided the lovely Folding functionality that you'll find in the little settings menu to your upper-right.</p>
 
                 </div>
             </div>
