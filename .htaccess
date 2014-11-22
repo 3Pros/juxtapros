@@ -1,4 +1,4 @@
 Options +Includes
 AddType text/html .shtml
 AddOutputFilter INCLUDES html;shtml
-ErrorDocument 404 404.shtml
+ErrorDocument 404 /404.shtml
