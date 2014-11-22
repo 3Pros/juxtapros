@@ -20,7 +20,9 @@ $(".js-lists").on("keyup", "input", function (event) {
 	var upArrow = 38;
 	var downArrow = 40;
 	if (event.which == upArrow) {
-		
+		console.log("Will move up. Will be implemented when I feel like it.")
+	} else {
+		console.log("Will move down. Will be implemented when I feel like it.")
 	}
 });
 $(".js-lists").on("blur", recountTotals);
