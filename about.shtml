@@ -11,7 +11,8 @@
             <div class="col-sm-12">
                 <div class="well">
                     <h2>About JuxtaPros</h2>
-                    <p>JuxtaPros is an web app for you! This is also really cheesy btw. This app allows you to compare and contrast the pros and cons of whatever you choose.</p>
+                    <p>JuxtaPros is the web app you've been waiting for! This is a simple tool for comparing alternatives. Whether you're making a list of pros and cons or analyzing different brands of bacon, JuxtaPros will help you lay out your options.</p>
+                    <p>Built during Southern Utah Code Camp 2014.</p>
                 </div>
             </div>
         </div>
