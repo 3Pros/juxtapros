@@ -1,5 +1,7 @@
 function recomputeTabIndices() {
-	console.log("Recomputing tab indices.");
+	if (!$("input").length) {
+		return false;
+	}
 	$("input")[0].tabIndex = 1;
 	$("input")[1].tabIndex = 2;
 
