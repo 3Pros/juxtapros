@@ -31,12 +31,14 @@
                     <p><a target="_blank" href="http://southernutahcodecamp.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Southern Utah Code Camp</a></p>
                     <p class="thanks-description">Thank you to Southern Utah Code Camp and its sponsors for providing a fun event for us to test and apply our coding skills. (And for all of the food!)</p>
                     <p><a target="_blank" href="http://getbootstrap.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Bootstrap</a></p>
-                    <p class="thanks-description">JuxtaPros is built with Bootstrap.</p>
+                    <p class="thanks-description">JuxtaPros is built with Bootstrap. For the uneducated, it's basically the only way for programmers to make it look like they have design skills.</p>
                     <p><a target="_blank" href="http://jquery.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>jQuery</a></p>
-                    <p class="thanks-description">jQuery is cool, I guess.</p>
+                    <p class="thanks-description">jQuery? Yeah, that's pretty much the driving force behind JuxtaPros. Seriously, it's awesome.</p>
                     <p><a target="_blank" href="http://glyphicons.com"><img src="/images/glyphicons/png/glyphicons_049_star.png"/>Glyphicons</a></p>
                     <p class="thanks-description">Thank you to Glyphicons for the use of their "halflings" through Bootstrap, as well as those available in Glyphicons FREE, released under the <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a> license.</p>
                     <p><a target="_blank" href="http://oridomi.com/"><img src="/images/glyphicons/png/glyphicons_049_star.png">OriDomi</a><p>
+                    <p class="thanks-description">OriDomi helpfully provided the lovely Folding functionality that you'll find in the little settings menu to your upper-right.</p>
+
                 </div>
             </div>
         </div>
