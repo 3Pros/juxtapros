@@ -20,7 +20,6 @@ function recountTotals () {
 		$("input", $(".js-list").get(index)).each(function (i, el) {
 			if (el.value) {
 				++count;
-				console.log("Count is " + count);
 			}
 		})
 		$(element).text(count);
