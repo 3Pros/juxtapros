@@ -10,7 +10,8 @@ $(".js-lists").on("focus", ".disabled", function () {
 	});
 });
 
-$(".js-lists").on("keypress", recountTotals);
+$(".js-lists").on("keyup", recountTotals);
+$(".js-lists").on("blur", recountTotals);
 
 // Count the non-blank inputs in each column
 function recountTotals () {
