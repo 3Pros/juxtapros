@@ -15,5 +15,5 @@
 	background-color: blue;
 }
 .input-group-addon{
-     style="min-width:42px";
+     min-width:42px;
 }
