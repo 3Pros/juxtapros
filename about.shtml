@@ -15,10 +15,14 @@
         </div>
         <div class="row">
             <div class="col-sm-6">
-                <h4>Contact Us</h4>
+                <div class="well">
+                    <h4>Contact Us</h4>
+                </div>
             </div>
             <div class="col-sm-6">
-                <h4>Special Thanks</h4>
+                <div class="well">
+                    <h4>Special Thanks</h4>
+                </div>
             </div>
         </div>
     </div>
