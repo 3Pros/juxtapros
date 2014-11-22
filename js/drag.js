@@ -1,5 +1,9 @@
-    $( ".sortable" ).sortable({
-    	axis : "y",
-    	items: "div:not(.disabled)",
-    });
-    $( ".sortable" ).disableSelection();
+$( ".sortable" ).sortable({
+	axis : "y",
+	items: "div:not(.disabled)",
+	handle: "span.input-group-addon",
+	update: function(event, ui) {
+
+	},
+});
+// $( ".sortable" ).disableSelection();
